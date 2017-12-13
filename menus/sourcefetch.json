@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "sourcefetch",
+          "label": "Source Fetch",
           "submenu": [
             {
               "label": "Fetch",
